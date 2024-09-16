@@ -1,8 +1,16 @@
 # DevSubzero.github.io
 ## Welcome To my Site
 
-Scripts
+1
 ```
-loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/REDzHUB/main/REDzHUB"))()
+Code
 ```
+
+2
+> quote
+
+3
+[Site](https://www.tutorialspoint.com/execute_lua_online.php).
+
+4
+
