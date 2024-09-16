@@ -1,16 +1,6 @@
 # DevSubzero.github.io
 ## Welcome To my Site
 
-1
-```
-Code
-```
-
-2
-> quote
-
-3
-[Site](https://www.tutorialspoint.com/execute_lua_online.php).
-
-4
-
+<a href="#" class="button">Post comment (link)</a>
+<input class="button" type="submit" value="Post comment (input)">
+<button class="button" type="submit">Post comment (button)</button>
